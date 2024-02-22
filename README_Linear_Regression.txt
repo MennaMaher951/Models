@@ -41,7 +41,7 @@ model.fit(x_train, y_train)
 # Make predictions and visualize
 test_data_predictions = model.predict(x_test)
 visualize_predictions(x_test, y_test, test_data_predictions)
-Use code with caution.
+
 Further Exploration
 Modify the hyperparameters and observe their impact on performance.
 Experiment with different datasets and evaluate model accuracy.

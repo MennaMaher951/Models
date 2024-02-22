@@ -1,5 +1,5 @@
 Multi-Models: From Scratch Implementations
-This repository explores four machine learning models implemented from scratch: Lasso Regression, Linear Regression, Logistic Regression, and SVM Classifier.
+* This repository explores four machine learning models implemented from scratch: Lasso Regression, Linear Regression, Logistic Regression, and SVM Classifier.
 
 Key Highlights:
 1. Detailed Implementations: Each model is built from scratch, providing deep understanding of their underlying mechanisms.
@@ -17,7 +17,7 @@ Usage:
 3. Explore and modify the model implementations in models/ for deeper understanding.
 
 Contributing:
-Pull requests and suggestions are welcome! Please open an issue for any feedback or contributions.
+* Pull requests and suggestions are welcome! Please open an issue for any feedback or contributions.
 
 Author:
 Menna Maher

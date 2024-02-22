@@ -39,8 +39,6 @@ Further Exploration
 Modify the hyperparameters and observe their impact on performance.
 Experiment with different datasets and evaluate model accuracy.
 Compare this implementation with other Lasso Regression libraries for benchmarking.
-Disclaimer
-This is a basic implementation for educational purposes and may not be optimized for real-world applications.
 
 Author
 Menna Maher

@@ -34,7 +34,7 @@ model.fit(X, y)
 
 # Make predictions
 predictions = model.predict(X_new)
-Use code with caution.
+
 Further Exploration
 Modify the hyperparameters and observe their impact on performance.
 Experiment with different datasets and evaluate model accuracy.
